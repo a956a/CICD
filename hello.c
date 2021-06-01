@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*뭐야 바꿨잖아요*/
+/*자꾸 바꾸넹*/
 int main(){
   printf("<h1>Hello,Hongik!</h1>\n");
   return 0;
