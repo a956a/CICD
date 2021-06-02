@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*testtt*/
+/*testt*/
 int main(){
   printf("<h1>Hello,Hongik!</h1>\n");
   return 0;
